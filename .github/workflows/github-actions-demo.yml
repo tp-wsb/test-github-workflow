@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: GitHub Actions
+=======
+name: GitHub Actions Demo
+>>>>>>> ebfa888 (requirements.txt)
 
 on:
   push:
@@ -30,3 +34,7 @@ jobs:
 
       - name: Run Pylint
         run: pylint app.py
+<<<<<<< HEAD
+=======
+
+>>>>>>> ebfa888 (requirements.txt)
